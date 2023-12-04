@@ -10,10 +10,10 @@ A Sample API Test using mocha, chai, axios, and coverage the API in view is Json
 
 ## Installation
 
- Step-by-step instructions on how to install this  project. 
-1:you will a npm install and other dependencies like mocha, chai, axios, and nyc for coverage .
-2:create clone this demo and cd to the directory 
-the run the following .
+ Step-by-step instructions on how to install this  Demo project. 
+- Install npm install and other dependencies like mocha, chai, axios, and nyc for coverage .
+- clone this demo and cd to the directory to run teh below commands
+
 
 ```bash
 npm init  # Initialises  node js 
