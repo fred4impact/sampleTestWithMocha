@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
-    "coverage":" nyc npm run test"
+    "coverage": "nyc npm run test"
   },
   "author": "",
   "license": "ISC",

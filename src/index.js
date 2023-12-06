@@ -15,6 +15,8 @@ module.exports = getUsers;
 
 
 // Example usage
-// clear
+
+
+// A POST Request to creat a new resource.
 
 
